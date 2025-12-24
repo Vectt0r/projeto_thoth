@@ -1,0 +1,2 @@
+npm install for -> initial setup
+npm run dev  -> local runner
