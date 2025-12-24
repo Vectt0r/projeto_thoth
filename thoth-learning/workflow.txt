@@ -3,4 +3,4 @@
 - vai ser necessário uma aplicação a parte responsável pelo setup de cada usuario / empresa?
 
 - necessário que toda a parte de criação dos modulos e matérias seja dinamica por usuario,
-provavelmente isso seja alcançado com cash de usuario ou consulta de dados em um banco.
+provavelmente isso seja alcançado com cash de usuario ou consulta de dados em um banco. Data-Driven UI
